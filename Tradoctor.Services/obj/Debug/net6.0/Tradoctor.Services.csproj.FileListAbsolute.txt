@@ -1,0 +1,15 @@
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.deps.json
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.dll
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.pdb
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.AssemblyInfoInputs.cache
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.AssemblyInfo.cs
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.CoreCompileInputs.cache
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.dll
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\refint\Tradoctor.Services.dll
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.pdb
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\ref\Tradoctor.Services.dll
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.AssemblyReference.cache
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Data.dll
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Data.pdb
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.CopyComplete

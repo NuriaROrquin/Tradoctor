@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rth2VgfFBsVdW4pudGCAHWDWlKQMnS8a4Jc1NE1+m5tD8LOPadrgvJjwAg4xZFaiHGINhzNqXCrR9ClMGsZC5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nuri\\Git\\Tradoctor.API\\Tradoctor.Services\\Tradoctor.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nuri\\.nuget\\packages\\awssdk.core\\3.7.204.12\\awssdk.core.3.7.204.12.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\awssdk.s3\\3.7.205.22\\awssdk.s3.3.7.205.22.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\awssdk.textract\\3.7.202.10\\awssdk.textract.3.7.202.10.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\7.0.0\\microsoft.extensions.configuration.usersecrets.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
