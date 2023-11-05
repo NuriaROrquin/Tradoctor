@@ -19,13 +19,19 @@
 <body class="flex flex-col h-screen">
 
     <!-- Encabezado -->
-    <div class="bg-blue-500 text-white py-4 text-center">
-        <h1 class="text-2xl font-bold">Encabezado</h1>
-    </div>
+    <header>
+        <div class="bg-black bg-opacity-70 text-white py-4 text-center">
+            <div class="flex items-center justify-start">
+                <img src="./img/unlamlogo.png" alt="Tu imagen" class="h-8 w-8 ml-4">
+                <h1 class="text-2xl font-bold mx-auto">Inteligencia Artificial en .Net</h1>
+            </div>
+        </div>
+    </header>    
+    
 
     <!-- Contenido principal -->
     <div class="flex-grow flex justify-center items-center">
-        <div class="max-w-md bg-white p-6 rounded-md shadow-md text-center">
+        <div class="max-w-md bg-white bg-opacity-70 p-6 rounded-md shadow-md text-center">
             <h1 class="text-2xl font-bold mb-4">¡Bienvenido a Tradoctor!</h1>
             <p class="text-gray-700 mb-4"> La herramienta más potente para leer tus recetas</p>
             <form enctype="multipart/form-data" id="imageForm">
@@ -34,7 +40,7 @@
                     <input type="file" id="archivo" name="archivo" class="p-2 border rounded-md w-full">
                 </div>
                 <button type="submit"
-                    class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-700">Enviar</button>
+                    class="p-2 border rounded-md w-full bg-green-500 text-white font-bold hover:bg-green-600 hover:text-white focus:outline-none focus:ring-2 focus:ring-green-400">Enviar</button>
             </form>
             <textarea id="result" class="w-full h-24 mt-4 p-2 border rounded-md" readonly></textarea>
             <span>Acierto de predicción: </span>
@@ -43,9 +49,13 @@
     </div>
 
     <!-- Pie de página -->
-    <div class="bg-blue-500 text-white py-4 text-center">
-        <h1 class="text-2xl font-bold">Pie de Página</h1>
-    </div>
+    <footer>
+        <div class="bg-black bg-opacity-70 text-white py-4 text-center">
+            <h1 class="text-2xl font-bold">Grupo 2</h1>
+            <h3 class="font-bold">Antúnez, Gambaro, Fagnano, Opera, Orquín, Palavecino.</h3>
+            <p>Programación Web III</p>
+        </div>
+    </footer>
 
 </body>
 

@@ -780,19 +780,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\leafnoise\\.nuget\\packages\\": {}
+    "C:\\Users\\inde_\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leafnoise\\Desktop\\UNLaM\\PW3\\TrabajoPractico\\Tradoctor.Services\\Tradoctor.Services.csproj",
+      "projectUniqueName": "C:\\Users\\inde_\\OneDrive\\Desktop\\UNLAM\\Progra Web III\\tradoctor\\Tradoctor\\Tradoctor.Services\\Tradoctor.Services.csproj",
       "projectName": "Tradoctor.Services",
-      "projectPath": "C:\\Users\\leafnoise\\Desktop\\UNLaM\\PW3\\TrabajoPractico\\Tradoctor.Services\\Tradoctor.Services.csproj",
-      "packagesPath": "C:\\Users\\leafnoise\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leafnoise\\Desktop\\UNLaM\\PW3\\TrabajoPractico\\Tradoctor.Services\\obj\\",
+      "projectPath": "C:\\Users\\inde_\\OneDrive\\Desktop\\UNLAM\\Progra Web III\\tradoctor\\Tradoctor\\Tradoctor.Services\\Tradoctor.Services.csproj",
+      "packagesPath": "C:\\Users\\inde_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\inde_\\OneDrive\\Desktop\\UNLAM\\Progra Web III\\tradoctor\\Tradoctor\\Tradoctor.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\leafnoise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\inde_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -806,8 +806,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\leafnoise\\Desktop\\UNLaM\\PW3\\TrabajoPractico\\Tradoctor.Data\\Tradoctor.Data.csproj": {
-              "projectPath": "C:\\Users\\leafnoise\\Desktop\\UNLaM\\PW3\\TrabajoPractico\\Tradoctor.Data\\Tradoctor.Data.csproj"
+            "C:\\Users\\inde_\\OneDrive\\Desktop\\UNLAM\\Progra Web III\\tradoctor\\Tradoctor\\Tradoctor.Data\\Tradoctor.Data.csproj": {
+              "projectPath": "C:\\Users\\inde_\\OneDrive\\Desktop\\UNLAM\\Progra Web III\\tradoctor\\Tradoctor\\Tradoctor.Data\\Tradoctor.Data.csproj"
             }
           }
         }

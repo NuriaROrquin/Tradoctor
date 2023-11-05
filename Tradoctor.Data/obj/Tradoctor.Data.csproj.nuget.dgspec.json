@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leafnoise\\Desktop\\UNLaM\\PW3\\TrabajoPractico\\Tradoctor.Data\\Tradoctor.Data.csproj": {}
+    "C:\\Users\\inde_\\OneDrive\\Desktop\\UNLAM\\Progra Web III\\tradoctor\\Tradoctor\\Tradoctor.Data\\Tradoctor.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leafnoise\\Desktop\\UNLaM\\PW3\\TrabajoPractico\\Tradoctor.Data\\Tradoctor.Data.csproj": {
+    "C:\\Users\\inde_\\OneDrive\\Desktop\\UNLAM\\Progra Web III\\tradoctor\\Tradoctor\\Tradoctor.Data\\Tradoctor.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leafnoise\\Desktop\\UNLaM\\PW3\\TrabajoPractico\\Tradoctor.Data\\Tradoctor.Data.csproj",
+        "projectUniqueName": "C:\\Users\\inde_\\OneDrive\\Desktop\\UNLAM\\Progra Web III\\tradoctor\\Tradoctor\\Tradoctor.Data\\Tradoctor.Data.csproj",
         "projectName": "Tradoctor.Data",
-        "projectPath": "C:\\Users\\leafnoise\\Desktop\\UNLaM\\PW3\\TrabajoPractico\\Tradoctor.Data\\Tradoctor.Data.csproj",
-        "packagesPath": "C:\\Users\\leafnoise\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leafnoise\\Desktop\\UNLaM\\PW3\\TrabajoPractico\\Tradoctor.Data\\obj\\",
+        "projectPath": "C:\\Users\\inde_\\OneDrive\\Desktop\\UNLAM\\Progra Web III\\tradoctor\\Tradoctor\\Tradoctor.Data\\Tradoctor.Data.csproj",
+        "packagesPath": "C:\\Users\\inde_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\inde_\\OneDrive\\Desktop\\UNLAM\\Progra Web III\\tradoctor\\Tradoctor\\Tradoctor.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\leafnoise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\inde_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

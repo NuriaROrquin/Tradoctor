@@ -20,3 +20,14 @@ C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\obj\Debug\ne
 C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\obj\Debug\net6.0\refint\Tradoctor.Data.dll
 C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.pdb
 C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\obj\Debug\net6.0\ref\Tradoctor.Data.dll
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Data\bin\Debug\net6.0\Tradoctor.Data.deps.json
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Data\bin\Debug\net6.0\Tradoctor.Data.dll
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Data\bin\Debug\net6.0\Tradoctor.Data.pdb
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.AssemblyInfoInputs.cache
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.AssemblyInfo.cs
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.csproj.CoreCompileInputs.cache
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.dll
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Data\obj\Debug\net6.0\refint\Tradoctor.Data.dll
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.pdb
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Data\obj\Debug\net6.0\ref\Tradoctor.Data.dll
