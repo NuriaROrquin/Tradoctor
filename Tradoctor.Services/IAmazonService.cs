@@ -10,6 +10,6 @@ namespace Tradoctor.Services
 {
     public interface IAmazonService
     {
-        public Task<TextractResult> GetTextFromDocument();
+        public Task<TextractResult> GetTextFromDocument(ImageTextrack imageTextrack);
     }
 }

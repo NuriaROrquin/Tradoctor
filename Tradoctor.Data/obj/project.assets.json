@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Nuri\\.nuget\\packages\\": {}
+    "C:\\Users\\leafnoise\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nuri\\Git\\Tradoctor.API\\Tradoctor.Data\\Tradoctor.Data.csproj",
+      "projectUniqueName": "C:\\Users\\leafnoise\\Desktop\\UNLaM\\PW3\\TrabajoPractico\\Tradoctor.Data\\Tradoctor.Data.csproj",
       "projectName": "Tradoctor.Data",
-      "projectPath": "C:\\Users\\Nuri\\Git\\Tradoctor.API\\Tradoctor.Data\\Tradoctor.Data.csproj",
-      "packagesPath": "C:\\Users\\Nuri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nuri\\Git\\Tradoctor.API\\Tradoctor.Data\\obj\\",
+      "projectPath": "C:\\Users\\leafnoise\\Desktop\\UNLaM\\PW3\\TrabajoPractico\\Tradoctor.Data\\Tradoctor.Data.csproj",
+      "packagesPath": "C:\\Users\\leafnoise\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\leafnoise\\Desktop\\UNLaM\\PW3\\TrabajoPractico\\Tradoctor.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\leafnoise\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

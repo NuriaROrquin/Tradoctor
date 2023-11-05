@@ -16,10 +16,10 @@ namespace Tradoctor.API.Controllers
             _amazonService = amazonService;
         }
 
-        [HttpGet(Name = "GetResultFromDocument")]
-        public Task<TextractResult> Index()
+        [HttpPost (Name = "GetResultFromDocument")]
+        public Task<TextractResult> GetResultFromDocument([FromBody] ImageTextrack imageTextrack)
         {
-            return _amazonService.GetTextFromDocument();
+            return _amazonService.GetTextFromDocument(imageTextrack);
         }
     }
 }

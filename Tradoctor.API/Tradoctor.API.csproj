@@ -18,4 +18,8 @@
     <ProjectReference Include="..\Tradoctor.Services\Tradoctor.Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\" />
+  </ItemGroup>
+
 </Project>

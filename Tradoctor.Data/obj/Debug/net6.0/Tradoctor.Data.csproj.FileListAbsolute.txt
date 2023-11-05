@@ -9,3 +9,14 @@ C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.d
 C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Data\obj\Debug\net6.0\refint\Tradoctor.Data.dll
 C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.pdb
 C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Data\obj\Debug\net6.0\ref\Tradoctor.Data.dll
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\bin\Debug\net6.0\Tradoctor.Data.deps.json
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\bin\Debug\net6.0\Tradoctor.Data.dll
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\bin\Debug\net6.0\Tradoctor.Data.pdb
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.AssemblyInfoInputs.cache
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.AssemblyInfo.cs
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.csproj.CoreCompileInputs.cache
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.dll
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\obj\Debug\net6.0\refint\Tradoctor.Data.dll
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\obj\Debug\net6.0\Tradoctor.Data.pdb
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Data\obj\Debug\net6.0\ref\Tradoctor.Data.dll
