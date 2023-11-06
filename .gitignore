@@ -10,3 +10,8 @@ backend/.vs/Tradoctor.API/FileContentIndex/d1473eea-2e58-46a0-94d9-b34585291c51.
 backend/.vs/Tradoctor.API/FileContentIndex/4f6334ab-707a-4be0-baca-01c30ee4c73f.vsidx
 backend/.vs/Tradoctor.API/FileContentIndex/0ddc9d01-ad6a-43ff-ba9b-0a5d322a94a3.vsidx
 backend/.vs/Tradoctor.API/DesignTimeBuild/.dtbcache.v2
+.idea/*
+backend/.vs/Tradoctor.API/*
+backend/.vs/Tradoctor.API/DesignTimeBuild/.dtbcache.v2
+frontend/.idea/*
+backend/.vs/Tradoctor.API/DesignTimeBuild/.dtbcache.v2
