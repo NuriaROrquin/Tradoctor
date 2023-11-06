@@ -25,9 +25,12 @@ document.addEventListener('DOMContentLoaded', function() {
                     if (response.ok) {
                         const textAreaResult = document.getElementById('result');
                         const spanResult = document.getElementById('confidence');
+                        const responseElement = document.getElementById('response');
+                        responseElement.style.display = 'block';
                         response.json().then((result)=>{
                             textAreaResult.value = result.prescriptionText;
-                            spanResult.innerHTML = result.confidence;
+                            const confidenceRounded = result.confidence.toFixed(2);
+                            spanResult.innerHTML = confidenceRounded;
                         });
                     } else {
                         throw new Error('Error en la solicitud POST');
