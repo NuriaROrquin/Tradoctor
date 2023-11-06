@@ -1,0 +1,60 @@
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.deps.json
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.dll
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.pdb
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.AssemblyInfoInputs.cache
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.AssemblyInfo.cs
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.CoreCompileInputs.cache
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.dll
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\refint\Tradoctor.Services.dll
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.pdb
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\ref\Tradoctor.Services.dll
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.AssemblyReference.cache
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Data.dll
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Data.pdb
+C:\Users\Nuri\Git\Tradoctor.API\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.CopyComplete
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.deps.json
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.dll
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.pdb
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Data.dll
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Data.pdb
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.AssemblyReference.cache
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.AssemblyInfoInputs.cache
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.AssemblyInfo.cs
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.CoreCompileInputs.cache
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.CopyComplete
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.dll
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\obj\Debug\net6.0\refint\Tradoctor.Services.dll
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.pdb
+C:\Users\leafnoise\Desktop\UNLaM\PW3\TrabajoPractico\Tradoctor.Services\obj\Debug\net6.0\ref\Tradoctor.Services.dll
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.deps.json
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.dll
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.pdb
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Data.dll
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Data.pdb
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.AssemblyReference.cache
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.AssemblyInfoInputs.cache
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.AssemblyInfo.cs
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.CoreCompileInputs.cache
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.CopyComplete
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.dll
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\obj\Debug\net6.0\refint\Tradoctor.Services.dll
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.pdb
+C:\Users\inde_\OneDrive\Desktop\UNLAM\Progra Web III\tradoctor\Tradoctor\Tradoctor.Services\obj\Debug\net6.0\ref\Tradoctor.Services.dll
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.deps.json
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.dll
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Services.pdb
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Data.dll
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\bin\Debug\net6.0\Tradoctor.Data.pdb
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.AssemblyReference.cache
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.AssemblyInfoInputs.cache
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.AssemblyInfo.cs
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.CoreCompileInputs.cache
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.csproj.CopyComplete
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.dll
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\obj\Debug\net6.0\refint\Tradoctor.Services.dll
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\obj\Debug\net6.0\Tradoctor.Services.pdb
+C:\Users\Nuri\Git\Tradoctor.API\backend\Tradoctor.Services\obj\Debug\net6.0\ref\Tradoctor.Services.dll
