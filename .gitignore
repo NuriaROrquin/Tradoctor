@@ -1,2 +1,12 @@
 backend/.vs/*
 backend/Tradoctor.API/obj/*
+*.cache
+backend/Tradoctor.Services/obj/Debug/net6.0/Tradoctor.Services.csproj.AssemblyReference.cache
+backend/Tradoctor.API/obj/Debug/net6.0/Tradoctor.API.csproj.AssemblyReference.cache
+backend/.vs/Tradoctor.API/v17/.suo
+backend/.vs/Tradoctor.API/v17/.futdcache.v2
+backend/.vs/Tradoctor.API/FileContentIndex/d718237d-5881-4237-a3bf-76d6fdf4fc54.vsidx
+backend/.vs/Tradoctor.API/FileContentIndex/d1473eea-2e58-46a0-94d9-b34585291c51.vsidx
+backend/.vs/Tradoctor.API/FileContentIndex/4f6334ab-707a-4be0-baca-01c30ee4c73f.vsidx
+backend/.vs/Tradoctor.API/FileContentIndex/0ddc9d01-ad6a-43ff-ba9b-0a5d322a94a3.vsidx
+backend/.vs/Tradoctor.API/DesignTimeBuild/.dtbcache.v2
